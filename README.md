@@ -22,7 +22,11 @@
 - **14-Jan-2026 (Wednesday):** Practiced Control Flow Level 2 & 3
 - **16-Jan-2026 (Friday):** Reordering the correct Git Structure
 - **17-Jan-2026 (Saturday):** Completed Arrays and Methods
-- **19-Jan-2026 (Monday):** Prepared for the review and learnt about classes and objects 
+- **19-Jan-2026 (Monday):** Prepared for the review and learnt about classes and objects
+- **20-Jan-2026 (Tuesday):** Learnt about Oops concepts and about class variables , access modifiers
+- **21-Jan-2026 (Wednesday):** Completed the problems realted to class, object and java constrcutors
+- **22-Jan-2026 (Thursday):** Learnt about static , final , this keywords and solved problems related to it 
+
 
 
 
