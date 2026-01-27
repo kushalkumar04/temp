@@ -25,7 +25,11 @@
 - **19-Jan-2026 (Monday):** Prepared for the review and learnt about classes and objects
 - **20-Jan-2026 (Tuesday):** Learnt about Oops concepts and about class variables , access modifiers
 - **21-Jan-2026 (Wednesday):** Completed the problems realted to class, object and java constrcutors
-- **22-Jan-2026 (Thursday):** Learnt about static , final , this keywords and solved problems related to it 
+- **22-Jan-2026 (Thursday):** Learnt about static , final , this keywords and solved problems related to it
+- **23-Jan-2026 (Friday):** Learnt about Object Modeling and class diagrams
+- **24-Jan-2026 (Saturday):** Solved the Problems related to OOPS
+- **27-Jan-2026 (Tuesday):** 
+
 
 
 
