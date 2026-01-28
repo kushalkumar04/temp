@@ -28,7 +28,10 @@
 - **22-Jan-2026 (Thursday):** Learnt about static , final , this keywords and solved problems related to it
 - **23-Jan-2026 (Friday):** Learnt about Object Modeling and class diagrams
 - **24-Jan-2026 (Saturday):** Solved the Problems related to OOPS
-- **27-Jan-2026 (Tuesday):** 
+- **27-Jan-2026 (Tuesday):** Understood about Data Structures in JAVA and solved problems in it
+- **28-Jan-2026 (Wednesday):** 
+- 
+
 
 
 
